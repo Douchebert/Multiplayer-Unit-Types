@@ -34,8 +34,8 @@
  austrian_jaeger:1 "§RJäger Infantry§!"
  napoleonic_square:0 "§RNapoleonic Square§!"
  #eastern
- eastern_medieval_infantry:0 "§REastern Medieval Infantry§!"
- bardiche_infantry:0 "§GBardiche Infantry§!"
+ eastern_medieval_infantry:0 "§GEastern Medieval Infantry§!"
+ bardiche_infantry:0 "§RBardiche Infantry§!"
  eastern_militia:0 "§GEastern Militia§!"
  germanized_pike:0 "§GPike Infantry§!"
  polish_musketeer:0 "§YDefensive Eastern Musketeers§!"

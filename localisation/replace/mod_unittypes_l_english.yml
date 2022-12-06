@@ -5,8 +5,8 @@
  #
  #
  #western
- western_medieval_infantry:0 "§GLatin Medieval Infantry§!" 
- halberd_infantry:0 "§RHalberd Infantry§!" 
+ western_medieval_infantry:0 "§RLatin Medieval Infantry§!" 
+ halberd_infantry:0 "§GHalberd Infantry§!" 
  western_men_at_arms:0 "§RMen at Arms§!" 
  western_longbow:0 "§RLongbow§!"
  gaelic_galloglaigh:0 "§GGalloglaigh Infantry§!"
@@ -51,7 +51,7 @@
  ottoman_azab:0 "§GAzab Infantry§!"
  ottoman_janissary:0 "§GJanissary Infantry§!"
  ottoman_sekban:0 "§GSekban Infantry§!"
- ottoman_reformed_janissary:0 "§bReformed Janissary Infantry§!"
+ ottoman_reformed_janissary:0 "§GReformed Janissary Infantry§!"
  ottoman_nizami_cedid:0 "§GNizami Cedid Infantry§!"
  eastern_carabinier:0 "§GEastern Carabinier§!"
  ottoman_new_model:0 "§GEastern New Model Infantry§!"
